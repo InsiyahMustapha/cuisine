@@ -1,0 +1,48 @@
+table {
+    border-collapse: collapse;
+}
+td {
+   border: 1px solid black;
+   padding: 10px;
+}
+.ins {
+    padding: 200px;
+}
+h1 {
+    font-weight: normal;
+    color: brown;
+}
+header {
+    background-image: url(https://image.freepik.com/vetores-gratis/pacote-de-chapeus-de-chef-com-diferentes-desenhos_23-2147629138.jpg);
+    height: 360px;
+    font-weight: 800px;
+}
+ol {
+    margin: 10px;
+}
+a {
+    
+}
+a {
+    list-style-type: none;
+  }
+ 
+  a {
+    display: inline;
+  }
+ 
+  a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: red;
+  }
+ 
+  a:hover {
+    background-color:gray;
+  }
+  
+  a {
+    padding-left: 10px;
+    padding-inline-start: 600px;
+    }
